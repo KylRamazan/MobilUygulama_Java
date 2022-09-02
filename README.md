@@ -1,14 +1,14 @@
 Lisans eğitimimde Android Mobil Programlama dersi için Java programlama dili ile yazmış olduğum mobil uygulamamdan örnek görseller aşağıda bulunmaktadır.
 
 ![1](https://user-images.githubusercontent.com/79850576/188152855-243b9382-1804-4178-8a82-a41a5f0b15e7.png)
-Açılış Sayfası (Animasyonlu)
+- Açılış Sayfası (Animasyonlu)
 
 ![2](https://user-images.githubusercontent.com/79850576/188152943-b2f5dede-7519-4086-b1a2-1e59fe79384c.png)
-Giriş Sayfası
+- Giriş Sayfası
 
 ![3](https://user-images.githubusercontent.com/79850576/188153000-aefca558-38e3-4652-a869-36b4d60943da.png)
 ![4](https://user-images.githubusercontent.com/79850576/188153039-40d849cf-f06d-4441-808e-1e29e6d7c151.png)
-Kayıt Ol Sayfaları
+- Kayıt Ol Sayfaları
 
 ![5](https://user-images.githubusercontent.com/79850576/188153084-51757b77-52b5-4558-b63b-7711166ca185.png)
 Şifre Yenileme Ekranı
