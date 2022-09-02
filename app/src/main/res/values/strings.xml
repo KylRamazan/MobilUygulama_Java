@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">InfoApp</string>
+    <string name="ara">Ara</string>
+    <string-array name="liste">
+        <item>deneme</item>
+        <item>deneme</item>
+        <item>deneme</item>
+        <item>deneme</item>
+        <item>deneme</item>
+        <item>deneme</item>
+        <item>deneme</item>
+        <item>deneme</item>
+        <item>deneme</item>
+        <item>deneme</item>
+        <item>deneme</item>
+        <item>deneme</item>
+    </string-array>
+
+</resources>

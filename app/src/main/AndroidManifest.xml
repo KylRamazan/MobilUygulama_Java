@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.infoapp">
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SifremiUnuttumActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".UniversiteKayitOlActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".LiseKayitOlActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AyarlarActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".IstatistikActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MesajActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MesajlarActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ArkadasActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BolumActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".UniversiteActivity"
+            android:screenOrientation="portrait"
+            android:noHistory = "true"/>
+        <activity
+            android:name=".KayitOlActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AnasayfaActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GirisActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
