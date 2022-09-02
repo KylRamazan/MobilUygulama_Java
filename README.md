@@ -11,22 +11,22 @@ Lisans eğitimimde Android Mobil Programlama dersi için Java programlama dili i
 - Kayıt Ol Sayfaları
 
 ![5](https://user-images.githubusercontent.com/79850576/188153084-51757b77-52b5-4558-b63b-7711166ca185.png)
-Şifre Yenileme Ekranı
+- Şifre Yenileme Ekranı
 
 ![6](https://user-images.githubusercontent.com/79850576/188153128-c9592ae8-bfbe-435d-95bd-116bae378d0f.png)
-Ana Sayfa
+- Ana Sayfa
 
 ![7](https://user-images.githubusercontent.com/79850576/188153158-9c8f2a51-d8ae-4405-a35f-79d694b7c251.png)
-Üniversite Arama Sayfası
+- Üniversite Arama Sayfası
 
 ![8](https://user-images.githubusercontent.com/79850576/188153182-7c5d465e-026f-4e2d-9608-5831b1149747.png)
-Bölüm Arama Sayfası
+- Bölüm Arama Sayfası
 
 ![9](https://user-images.githubusercontent.com/79850576/188153224-6625be5b-17b4-40e7-a35e-c61561f0f2cd.png)
-Mesajlar Sayfası
+- Mesajlar Sayfası
 
 ![11](https://user-images.githubusercontent.com/79850576/188153316-89e2d0f7-a435-4428-8c80-e6d42d4bbe3c.png)
-Mesajlaşma Sayfası
+- Mesajlaşma Sayfası
 
 ![10](https://user-images.githubusercontent.com/79850576/188153264-d98dc595-ec58-49ab-aa0b-4245d9070717.png)
-Ayarlar Sayfası
+- Ayarlar Sayfası
